@@ -7,7 +7,7 @@ Airline data holds immense importance as it offers insights into the functioning
 
 
 
-### Significance of Airline Data:       
+## Significance of Airline Data:       
 
 Airline data plays a pivotal role in shaping the operational strategies and overall efficiency of the aviation industry. It encompasses a wide array of information, including flight routes, schedules, passenger demographics, ticket sales, and preferences, all of which are crucial for airlines to stay competitive in a dynamic market. By leveraging this rich dataset, airlines can optimize their operations, streamline resources, and ultimately enhance customer satisfaction.         
 
@@ -21,7 +21,7 @@ Additionally, data on passenger preferences and booking trends allows airlines t
 
 
 
-Tables of Interest:         
+## Tables of Interest:         
 
 The following tables hold key data that can be analyzed to provide actionable insights into various aspects of airline operations:
 
@@ -43,7 +43,7 @@ tickets: Contains details about the tickets issued, including pricing, payment m
 
 
 
-Key Questions to Address:        
+## Key Questions to Address:        
 
 List Flights with Less than 50% of Their Seats Booked      
    
