@@ -1,6 +1,7 @@
 ## Airline✈️ Data Analysis Using SQL !
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.igtsolutions.com%2Findustries-old%2Fairlines-2%2F&psig=AOvVaw0swQMButDe4veJzsrdGK6Z&ust=1726250227838000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiCstf9vYgDFQAAAAAdAAAAABAo![image](https://github.com/user-attachments/assets/632732ea-bd7f-4672-a795-dbcae12c8694)
+
+![Airlines-min](https://github.com/user-attachments/assets/be96fb7c-09ce-4a87-91cc-cf9c1b023134)
 
 Airline data holds immense importance as it offers insights into the functioning and efficiency of the aviation industry. It provides valuable information about flight routes, schedules, passenger demographics, and preferences, which airlines can leverage to optimize their operations and enhance customer experiences. By analyzing data on delays, cancellations, and on-time performance, airlines can identify trends and implement strategies to improve punctuality and mitigate disruptions. 
 
