@@ -1,5 +1,6 @@
 ## Airline✈️ Data Analysis Using SQL !
 
+https://samchui.com/wp-content/uploads/2024/01/New-Airlines-2024.jpg
 
 Airline data holds immense importance as it offers insights into the functioning and efficiency of the aviation industry. It provides valuable information about flight routes, schedules, passenger demographics, and preferences, which airlines can leverage to optimize their operations and enhance customer experiences. By analyzing data on delays, cancellations, and on-time performance, airlines can identify trends and implement strategies to improve punctuality and mitigate disruptions. 
 
